@@ -31,10 +31,6 @@ a:hover, a:focus, a:active, a:visited {
     font-size: 16px;
     border-radius: 4px;
 }
-.btn-red {
-    background-color: #dd5138;
-    color: #fff;
-}
 .btn-yellow {
     background-color: #fcd93b;
     color: #2a2a2a;
